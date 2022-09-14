@@ -8,10 +8,37 @@ share-img: /assets/img/uni1.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+En este trabajo se encuentra el desarrollo de un análisis de datos de una planta 
+piloto basado en técnicas de inteligencia artificial. Podemos encontrar todo el 
+proceso de realización de este proyecto iniciando por la caracterización de la planta 
+y sistemas industriales implicados en el proceso, la realización de captura de datos 
+mediante un PLC S71200 y software elaborado para la creación de un dataset con 
+la información proveniente de la planta con el cual se realizó el análisis del 
+comportamiento del sistema previamente caracterizado. También se podrá 
+encontrar el diseño y la ejecución de distintos métodos de machine learning para 
+cumplir con el propósito del proyecto en los cuales los entrenamientos arrojaron 
+resultados de precisión mayores al 80%. Por último, se realiza una selección del 
+método más apto para los experimentos de validación realizados, se podrá observar 
+que el método final tendrá una precisión en el aprendizaje mayor al 90%, el cual se 
+valida en tiempo real. También se realizó la conexión entre los software Spyder
+(Python) y TIA Portal mediante la configuración de cliente y servidor con la que se 
+recopilaron y trataron los datos obtenidos y almacenados.
+Palabras clave: PLC, Python, Tia Portal, Machine learning, Dataset, IA
+17
+ABSTRACT
+This work is based on the development of a data analysis of a pilot plant based on 
+artificial intelligence techniques. We can find the entire process of carrying out this 
+project starting with the characterization of the plant and industrial systems involved 
+in the process, the realization of data capture through a PLC S71200 and software 
+developed for the creation of a dataset with the information from the plant with which 
+the analysis of the behavior of the previously characterized system was carried out. 
+You can also find the design and execution of different machine learning methods to 
+fulfill the purpose of the project in which the trainings yielded accuracy results greater 
+than 80%. Finally, a selection of the most suitable method for the validation 
+experiments carried out is made, it will be observed that the final method will have 
+an accuracy in learning greater than 90%, which is validated in real time. The 
+connection between Spyder (Python) and TIA Portal software was also made
+through a client-server configuration with which the data could be obtained and 
+stored for the processing.
+Keywords: PLC, Python, Tia Portal, Machine learning, Dataset, IA
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
-
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
