@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Tesis de grado
+subtitle: Análisis del comportamiento de la planta piloto del Laboratorio de Automática de la Universidad Autónoma de Occidente mediante técnicas de aprendizaje automático
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
