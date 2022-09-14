@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/P& ID.png
 share-img: /assets/img/uni1.jpg
 tags: [books, test]
 ---
-
+**Resumen**
 En este trabajo se encuentra el desarrollo de un análisis de datos de una planta 
 piloto basado en técnicas de inteligencia artificial. Podemos encontrar todo el 
 proceso de realización de este proyecto iniciando por la caracterización de la planta 
@@ -23,22 +23,4 @@ que el método final tendrá una precisión en el aprendizaje mayor al 90%, el c
 valida en tiempo real. También se realizó la conexión entre los software Spyder
 (Python) y TIA Portal mediante la configuración de cliente y servidor con la que se 
 recopilaron y trataron los datos obtenidos y almacenados.
-Palabras clave: PLC, Python, Tia Portal, Machine learning, Dataset, IA
-17
-ABSTRACT
-This work is based on the development of a data analysis of a pilot plant based on 
-artificial intelligence techniques. We can find the entire process of carrying out this 
-project starting with the characterization of the plant and industrial systems involved 
-in the process, the realization of data capture through a PLC S71200 and software 
-developed for the creation of a dataset with the information from the plant with which 
-the analysis of the behavior of the previously characterized system was carried out. 
-You can also find the design and execution of different machine learning methods to 
-fulfill the purpose of the project in which the trainings yielded accuracy results greater 
-than 80%. Finally, a selection of the most suitable method for the validation 
-experiments carried out is made, it will be observed that the final method will have 
-an accuracy in learning greater than 90%, which is validated in real time. The 
-connection between Spyder (Python) and TIA Portal software was also made
-through a client-server configuration with which the data could be obtained and 
-stored for the processing.
-Keywords: PLC, Python, Tia Portal, Machine learning, Dataset, IA
-
+**Palabras clave**: PLC, Python, Tia Portal, Machine learning, Dataset, IA
