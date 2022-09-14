@@ -2,9 +2,9 @@
 layout: post
 title: Tesis de grado
 subtitle: Análisis del comportamiento de la planta piloto del Laboratorio de Automática de la Universidad Autónoma de Occidente mediante técnicas de aprendizaje automático
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/P& ID.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/P& ID.png
 tags: [books, test]
 ---
 
