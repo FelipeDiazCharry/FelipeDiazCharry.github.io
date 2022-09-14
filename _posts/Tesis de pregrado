@@ -13,7 +13,7 @@ En este trabajo se encuentra el desarrollo de un análisis de datos de una plant
 piloto basado en técnicas de inteligencia artificial. Podemos encontrar todo el 
 proceso de realización de este proyecto iniciando por la caracterización de la planta 
 y sistemas industriales implicados en el proceso, la realización de captura de datos 
-mediante un PLC S71200 y software elaborado para la creación de un dataset con 
+mediante un PLC S7-1200 y software elaborado para la creación de un dataset con 
 la información proveniente de la planta con el cual se realizó el análisis del 
 comportamiento del sistema previamente caracterizado. También se podrá 
 encontrar el diseño y la ejecución de distintos métodos de machine learning para 
