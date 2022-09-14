@@ -5,7 +5,7 @@ subtitle: Análisis del comportamiento de la planta piloto del Laboratorio de Au
 cover-img: /assets/img/uni1.jpg
 thumbnail-img: /assets/img/P& ID.png
 share-img: /assets/img/uni1.jpg
-tags: [books, test]
+#tags: [books, test]
 ---
 **Resumen**
 
