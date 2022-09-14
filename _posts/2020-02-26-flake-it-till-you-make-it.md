@@ -8,6 +8,7 @@ share-img: /assets/img/uni1.jpg
 tags: [books, test]
 ---
 **Resumen**
+
 En este trabajo se encuentra el desarrollo de un análisis de datos de una planta 
 piloto basado en técnicas de inteligencia artificial. Podemos encontrar todo el 
 proceso de realización de este proyecto iniciando por la caracterización de la planta 
@@ -23,4 +24,5 @@ que el método final tendrá una precisión en el aprendizaje mayor al 90%, el c
 valida en tiempo real. También se realizó la conexión entre los software Spyder
 (Python) y TIA Portal mediante la configuración de cliente y servidor con la que se 
 recopilaron y trataron los datos obtenidos y almacenados.
+
 **Palabras clave**: PLC, Python, Tia Portal, Machine learning, Dataset, IA
