@@ -3,18 +3,11 @@ layout: post
 title: "Creating a Chatbot with Typebot"
 subtitle: "How I built an AI-powered chatbot for a supplement business"
 cover-img: /assets/img/typebot.jpg
-thumbnail-img: /assets/img/typebot-thumb.jpg
+thumbnail-img: /assets/img/typebot.png
 share-img: /assets/img/typebot.jpg
 tags: [chatbot, typebot, AI, automation]
+typebot: true
 ---
-
-layout: post
-title: Creando un Bot con Typebot y una Base de Conocimiento
-subtitle: Automatizando la atención al cliente para un negocio de suplementos energéticos
-cover-img: /assets/img/typebot.jpg
-thumbnail-img: /assets/img/typebot-thumb.jpg
-share-img: /assets/img/typebot.jpg
-tags: [chatbot, typebot, inteligencia artificial, automatización]
 
 Introducción
 
