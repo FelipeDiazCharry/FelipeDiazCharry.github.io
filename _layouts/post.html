@@ -77,6 +77,23 @@ layout: base
         {% endif %}
       </ul>
       {% include comments.html %}
+{% if page.typebot %}
+<script type="module">
+  const typebotInitScript = document.createElement("script");
+  typebotInitScript.type = "module";
+  typebotInitScript.innerHTML = `import Typebot from 'https://cdn.jsdelivr.net/npm/@typebot.io/js@0.3/dist/web.js'
+
+  Typebot.initBubble({
+    typebot: "fitfactory",
+    previewMessage: { message: "FitFactory" },
+    theme: { button: { backgroundColor: "#ff5924" } },
+  });
+  `;
+  document.body.append(typebotInitScript);
+</script>
+{% endif %}
+
+      
     </div>
   </div>
 </div>
